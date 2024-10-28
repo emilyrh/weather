@@ -10,3 +10,8 @@ body {
   border-radius: 16px;
   padding: 30px;
 }
+
+h1 {
+  font-size: 38px;
+  font-family: "Abril Fatface", serif;
+}
